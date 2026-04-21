@@ -25,5 +25,4 @@ $.getJSON(weatherAlertsUrl, function(data) {
   style: { color: 'orange' },
   // more options go here
 }).addTo(map);
-
 });
