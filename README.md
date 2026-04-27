@@ -5,6 +5,6 @@ Map for GEOG 4046 assignment
 A map to display the current weather conditions 
 <https://elysenicole.github.io/weather/>
 
-##Photo Map Tour
+## Photo Map Tour
 A map to show interesting locations with markers and photos in Pakistan 
 <hhtps://elysenicole.github.io/photomap> 
