@@ -7,4 +7,4 @@ A map to display the current weather conditions
 
 ## Photo Map Tour
 A map to show interesting locations with markers and photos in Pakistan 
-<https://github.com/elysenicole/photomap.> 
+<https://github.com/elysenicole/photomap>
